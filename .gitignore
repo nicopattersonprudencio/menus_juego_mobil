@@ -1,0 +1,19 @@
+# Godot
+.import/
+.export/
+.export_presets.cfg
+
+# Godot 4
+.godot/
+
+# Mono / C#
+.mono/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
